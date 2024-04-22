@@ -4,11 +4,17 @@
 
 ### Screenshot
 
+#### Desktop
+
 ![](./design/desktop-design.png)
+
+#### Mobile
+
+![](./design/desktop-mobile.png)
 
 ### Links
 
-- Solution URL: [https://github.com/codermoshiur/qr-code-component](https://github.com/codermoshiur/qr-code-component)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-challange-mobilefirst-solution-using-css-grid-RFpLBMLK5T](https://www.frontendmentor.io/solutions/qr-code-component-challange-mobilefirst-solution-using-css-grid-RFpLBMLK5T)
 - Live Site URL: [https://codermoshiur.github.io/qr-code-component/](https://codermoshiur.github.io/qr-code-component/)
 
 ## My process
@@ -18,6 +24,7 @@
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
+- Mobile-first workflow
 
 ## Author
 
