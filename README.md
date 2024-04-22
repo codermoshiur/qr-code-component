@@ -10,7 +10,7 @@
 
 #### Mobile
 
-![](./design/desktop-mobile.png)
+![](./design/mobile-design.png)
 
 ### Links
 
