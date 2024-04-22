@@ -41,7 +41,7 @@
         grid-template-columns: auto;
         place-content: center;
       }
-      section {  
+      .card {  
         max-width: 37.5rem;
         padding: 1.5rem;
         border-radius: 1.5rem;
@@ -49,7 +49,7 @@
         text-align: center;
         background-color: var(--white);
       }
-      section article {
+      section {
         width: 90%;
         margin: auto;
       }
@@ -77,18 +77,18 @@
   </head>
   <body>
     <main>
-       <section>
+       <div class="card">
         <figure>
           <img src="./images/image-qr-code.png" alt="QR Code" />
         </figure>
-        <article>
-          <h2>Improve your front-end skills by building projects</h2>
+        <section>
+          <h1>Improve your front-end skills by building projects</h1>
           <p>
             Scan the QR code to visit Frontend Mentor and take your coding skills
             to the next level
           </p>
-        </article>
-      </section>
+        </section>
+      </div>
     </main>
   </body>
 </html>
